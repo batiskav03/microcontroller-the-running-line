@@ -1,4 +1,5 @@
 # microcontroller-the-running-line
+*assembler for the emulator
 
 ```asm
 org 0800
